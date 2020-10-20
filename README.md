@@ -4,7 +4,7 @@
 
 Functional programming is fun and .NET has a feature-packed standard library... Let's see how easy it'd be to start using F# at work!
 
-Also a good place for trying out generative testing using (FsCheck)[https://github.com/fscheck/FsCheck].
+Also a good place for trying out generative testing using [FsCheck](https://github.com/fscheck/FsCheck).
 
 ## Setup
 
